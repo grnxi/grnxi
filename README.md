@@ -4,10 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome To Grnxi . . . . &center=true&width=440&height=45&color=683b95&vCenter=true&size=22"></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&color=602D9C&center=true&vCenter=true&width=1920&lines=Welcome+To+Grnxi+...;Enjoy+your+stay..+Choom)](https://git.io/typing-svg)
 
 <p align="center">
     <a href="https://github.com/grnxi" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@grnxi-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
@@ -25,7 +22,6 @@
   color: Pinkish
 }
 ```
-
 <br/>
 
 
